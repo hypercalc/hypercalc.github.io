@@ -1,1 +1,1 @@
-# hypercalc.github.io
+# HyperCalc
