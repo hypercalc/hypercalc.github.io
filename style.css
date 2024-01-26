@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+*
+{
+  font-family: 'Poppins', sans-serif;
+}
+
+body
+{
+  background-color: #3C0064;
+}
+
+header
+{
+  background-color: #5F00A0;
+  text-align: center;
+}
+
+.front-inf
+{
+  background-color: #AE37FF;
+  text-align: center;
+}
