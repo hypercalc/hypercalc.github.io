@@ -7,17 +7,27 @@
 
 body
 {
-  background-color: #3C0064;
+  background-color: black;
 }
 
 header
 {
-  background-color: #5F00A0;
+  background-color: #141414;
   text-align: center;
+}
+
+nav button
+{
+  padding: 5px;
+}
+
+nav button:hover
+{
+  background-color: red;
 }
 
 .front-inf
 {
-  background-color: #AE37FF;
+  background-color: #202020;
   text-align: center;
 }
